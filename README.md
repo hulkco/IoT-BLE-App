@@ -9,4 +9,9 @@ Arduino Sensor Kit https://store.arduino.cc/usa/sensor-kit-base
  
 > Note: This sketch was created for the BLE stack of the Arduino 101 board, if you use another, you will have to make the necessary changes.
 
+![Photo 1](/images/01.jpg "Photo 1")
+![Photo 2](/images/02.jpg "Photo 2")
 
+Video
+![Photo Video](/images/03.jpg "Photo Video")
+<https://youtu.be/y_bX3JwTSvo>
