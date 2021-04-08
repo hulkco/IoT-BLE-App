@@ -30,9 +30,6 @@
 *.exe
 *.out
 *.app
-# MacOs temporary files
-*.DS_Store
-.DS_Store
 
 # Temporary files
 *.000
@@ -46,3 +43,7 @@
 
 # Autorouter files (exported from Pcbnew)
 .dsn
+
+# MacOs temporary files
+*.DS_Store
+.DS_Store
